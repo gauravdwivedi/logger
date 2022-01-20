@@ -1,0 +1,61 @@
+{
+  "logs": [
+    {
+      "id": 1,
+      "message": "Add Different Log SYstems",
+      "attention": false,
+      "tech": "Will Smith",
+      "date": "2022-01-19T12:32:44.435Z"
+    },
+    {
+      "id": 2,
+      "message": "System 343 needs Attention ",
+      "attention": true,
+      "tech": "Dan Walter",
+      "date": "2022-01-19T12:31:47.974Z"
+    },
+    {
+      "id": 3,
+      "message": "Updated Third Time",
+      "attention": false,
+      "tech": "Will Smith",
+      "date": "2022-01-19T12:39:59.602Z"
+    },
+    {
+      "id": 4,
+      "message": "UPdated Updated Updated!ee",
+      "attention": true,
+      "tech": "Daneil Walter",
+      "date": "2022-01-20T01:01:39.452Z"
+    },
+    {
+      "message": "Working ",
+      "attention": true,
+      "tech": "Will Smith",
+      "date": "2022-01-19T12:21:58.960Z",
+      "id": 5
+    }
+  ],
+  "techs": [
+    {
+      "id": 2,
+      "firstName": "Sam",
+      "lastName": "Smith"
+    },
+    {
+      "id": 3,
+      "firstName": "Sara",
+      "lastName": "Wilson"
+    },
+    {
+      "firstName": "Daneil",
+      "lastName": "Walter",
+      "id": 4
+    },
+    {
+      "firstName": "Sam",
+      "lastName": "Harris",
+      "id": 6
+    }
+  ]
+}
